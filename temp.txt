@@ -1,0 +1,13 @@
+Каталог B:\Games не создан
+Каталог B:\Games\temp создан
+Каталог B:\Games\src создан
+Каталог B:\Games\res создан
+Каталог B:\Games\savegames создан
+Каталог B:\Games\src\main создан
+Каталог B:\Games\src\test создан
+Каталог B:\Games\res\drawables создан
+Каталог B:\Games\res\vectors создан
+Каталог B:\Games\res\icons создан
+Файл B:\Games\src\main\Main.java создан
+Файл B:\Games\src\main\Utils.java создан
+Файл B:\Games\temp\temp.txt создан
